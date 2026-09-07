@@ -50,11 +50,18 @@
 
 ---
 
-## 📊 GitHub Analytics
+---
+
+## 📊 Activity & Language History
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lojt-cloud&show_icons=true&theme=radial&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lojt-cloud&layout=compact&theme=radial&hide_border=true" width="48%" />
+### 💻 Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lojt-cloud&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="80%" alt="Top Languages" />
+
+<br/><br/>
+
+### 📈 Contribution Activity History
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lojt-cloud&theme=github-dark&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" />
 
 </div>
