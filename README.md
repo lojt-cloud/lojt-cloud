@@ -3,8 +3,8 @@
 # Hi there, I'm Balint Lojt 👋
 ### Junior Cloud Engineer | Infrastructure as Code | DevOps & FinOps
 
-[![Terminal Stats](https://github-stats-terminal-style.vercel.app/api?username=lojt-cloud)](https://github.com/lojt-cloud)
 
+[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=lojt-cloud&theme=tokyonight)](https://github.com/lojt-cloud)
 </div>
 
 ---
